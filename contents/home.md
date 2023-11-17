@@ -1,7 +1,7 @@
 
 I am a Ph.D student in the Department of Computer Science at City University of Hong Kong, supervised by <a href="https://kedema.org/">Prof. Kede MA</a>. My main research interests lie in computer vision, especially generative models, data hiding, and image compression. I received my B.E. degree from the College of Communication of Jinlin University and M.S. degree from Department of Electrical and Computer Engineering of National Univeristy of Singapore.
 
-Here is my <a href="https://github.com/haoychen3/haoychen3.github.io/blob/main/static/assets/Haoyu_s_CV.pdf">CV</a>.
+<a href="https://drive.google.com/file/d/1tGAQN99v1qkrcqNVHmIV9VMdpHivpsgH/view?usp=drive_link">Curriculum Vitae</a>
 
 #### Email
 haoychen3-c[at]my.cityu.edu.hk
