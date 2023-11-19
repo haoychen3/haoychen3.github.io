@@ -7,7 +7,7 @@ I am a Ph.D. student in the Department of Computer Science at City University of
 haoychen3-c[at]my.cityu.edu.hk
 
 #### Education
-2021.08 - now, Ph.D. candidate, Computer Science, City University of Hong Kong
+2021.08 - now, Ph.D. Candidate, Computer Science, City University of Hong Kong
 
 2020.08 - 2021.06, M.S., Electrical and Computer Engineering, National University of Singapore.
 
